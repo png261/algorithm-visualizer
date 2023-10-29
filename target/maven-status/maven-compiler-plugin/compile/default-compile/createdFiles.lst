@@ -1,0 +1,11 @@
+sort/QuickSort.class
+Main.class
+search/QuickSelect.class
+sort/SortUtils.class
+sort/BubbleSort.class
+sort/SelectionSort.class
+sort/InsertionSort.class
+search/BinarySearch.class
+sort/MergeSort.class
+sort/HeapSort.class
+search/SquentialSearch.class
