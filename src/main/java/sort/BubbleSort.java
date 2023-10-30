@@ -1,6 +1,6 @@
 package sort;
 
-import static sort.SortUtils.*;
+import static utils.Utils.swap;
 
 public class BubbleSort {
     public static void sort(int[] array) {

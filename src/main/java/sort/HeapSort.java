@@ -1,6 +1,6 @@
 package sort;
 
-import static sort.SortUtils.*;
+import static utils.Utils.swap;
 
 public class HeapSort {
     private static void heapify(int[] array, int i, int n) {

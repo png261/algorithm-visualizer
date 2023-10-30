@@ -1,6 +1,6 @@
 package sort;
 
-import static sort.SortUtils.*;
+import static utils.Utils.swap;
 
 public class QuickSort {
     public static int partition(int[] array, int begin, int end) {
