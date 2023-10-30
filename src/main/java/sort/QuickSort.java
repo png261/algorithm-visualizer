@@ -3,7 +3,7 @@ package sort;
 import static sort.SortUtils.*;
 
 public class QuickSort {
-    private static int partition(int[] array, int begin, int end) {
+    public static int partition(int[] array, int begin, int end) {
         final int randomIndex = (int) ((Math.random() * (end - begin)) + begin);
         final int pivot = array[randomIndex];
 
